@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bem vindo 🤙
 
-<!--
-**Gian-Pro/Gian-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gian
 
-Here are some ideas to get you started:
+- Estou Estudando no Alura
+- Estou desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+00001102556877sp@al.educacao.sp.gov.br
+
+
+
+![image](https://github.com/user-attachments/assets/87f3da1a-870f-4073-9c54-a5b78cec4262)
